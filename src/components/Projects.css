@@ -1,0 +1,13 @@
+.projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+.img{
+  background: url('../components/img/sabbir.png') center / cover;
+  max-width: 100%;
+}
+.img3{
+  background: url('../components//img/valy.png');
+ height: 10px;
+}

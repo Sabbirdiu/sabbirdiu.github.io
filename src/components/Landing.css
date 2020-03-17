@@ -1,0 +1,57 @@
+.landing-grid{
+   background: url('./img/pro.JPG') no-repeat center center/cover ;
+    
+   
+   height: 100vh;
+   position: relative;
+    
+    text-align: center;
+    
+}
+.space{
+    padding-top: 250px;
+}
+.main{
+    max-width: 100%;
+    margin: auto;
+}
+
+.banner{
+    
+    background-color:gray;
+    opacity: 0.8;
+    width: 75%;
+    margin: auto;
+    border-bottom: 10px;
+    @media screen and (max-width:800px){
+        min-width: 100%;
+    }
+}
+
+.banner h1{
+    font-size: 66px;
+    font-weight: bold;
+    color: white;
+}
+.banner hr{
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto;
+
+}
+.banner p{
+    color: white;
+    font-size: 20px;
+    padding:1em;
+}
+.social-links{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+.social-links i{
+    color: white;
+    font-size: 5em;
+    padding:8px;
+}

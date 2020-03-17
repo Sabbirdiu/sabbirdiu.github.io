@@ -1,0 +1,24 @@
+.form-wrap .form-group input ,textarea{
+    width: 100%;
+    padding: 10PX;
+    border: palegreen 1px solid;
+    border-radius: 5px;
+}
+
+.form-wrap button{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background:#49c1a2;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form-wrap button:hover{
+    background:#49c1a2;
+}
+.form-wrap .bottom{
+    font-size: 13px;
+    margin-top: 10px;
+}
