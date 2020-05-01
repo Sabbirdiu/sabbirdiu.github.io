@@ -18,7 +18,7 @@ function App() {
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/">Home</Link>
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/about">About</Link>
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/project">Project</Link>
-                <Link style={{textDecoration:'none',visibility:'red'}} to="/resume">Resume</Link>
+                {/* <Link style={{textDecoration:'none',visibility:'red'}} to="/resume">Resume</Link> */}
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/contact">Contact</Link>
                 
             </Navigation>
@@ -28,7 +28,7 @@ function App() {
                <Link style={{textDecoration:'none',visibility:'red'}} to="/">Home</Link>
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/about">About</Link>
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/project">Project</Link>
-                <Link style={{textDecoration:'none',visibility:'red'}} to="/resume">Resume</Link>
+                {/* <Link style={{textDecoration:'none',visibility:'red'}} to="/resume">Resume</Link> */}
                 <Link style={{textDecoration:'none',visibility:'red'}} to="/contact">Contact</Link>
             </Navigation>
         </Drawer>

@@ -15,7 +15,7 @@ class About extends Component {
               <Cell col={4}>
                 <div style={{textAlign: 'center'}}>
                   <img
-                    src="https://scontent.fdac20-1.fna.fbcdn.net/v/t1.0-9/81918812_1025227357836377_451095828073807872_n.jpg?_nc_cat=101&_nc_sid=110474&_nc_oc=AQluKEEAyaca6olUdZ-7o49i6U8xqxrDD2DKkioEchiNtudEPhbU7TblTWf-ew2Oupk&_nc_pt=1&_nc_ht=scontent.fdac20-1.fna&oh=b05e7fd98dbc72ad4e3bb7b961c76014&oe=5E956C93"
+                    src="https://scontent.fdac20-1.fna.fbcdn.net/v/t1.0-9/s960x960/81462619_1317280558459434_544930418130944000_o.jpg?_nc_cat=107&_nc_sid=dd9801&_nc_eui2=AeHINtKbN9lTta028nrG6rYU_DrAMldRdW38OsAyV1F1baGtoaodu6OP5BKRINdO6tqQSBm7hPYLfx0GNmAZT90V&_nc_oc=AQnRBg1GlYCjYtP_lNdcglJVG0K61lCddb7qiJyxF82M21XfnmDHiGqTZbWPYrgTB9A&_nc_pt=1&_nc_ht=scontent.fdac20-1.fna&_nc_tp=7&oh=a9d78606ebdd93a1fd8cd9fcf436e6cd&oe=5ED167EC"
                     alt="avatar"
                     style={{height: '200px'}}
                      />
