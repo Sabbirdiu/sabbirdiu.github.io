@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sabbirdiu.github.io/static/css/main.d04fa379.chunk.css",
-    "main.js": "/sabbirdiu.github.io/static/js/main.b0c8bf4d.chunk.js",
-    "main.js.map": "/sabbirdiu.github.io/static/js/main.b0c8bf4d.chunk.js.map",
-    "runtime-main.js": "/sabbirdiu.github.io/static/js/runtime-main.141bbb93.js",
-    "runtime-main.js.map": "/sabbirdiu.github.io/static/js/runtime-main.141bbb93.js.map",
-    "static/css/2.e842310e.chunk.css": "/sabbirdiu.github.io/static/css/2.e842310e.chunk.css",
-    "static/js/2.37edd7e3.chunk.js": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js",
-    "static/js/2.37edd7e3.chunk.js.map": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js.map",
-    "index.html": "/sabbirdiu.github.io/index.html",
-    "precache-manifest.985d903e0f0a8f68b094b372556d2cab.js": "/sabbirdiu.github.io/precache-manifest.985d903e0f0a8f68b094b372556d2cab.js",
-    "service-worker.js": "/sabbirdiu.github.io/service-worker.js",
-    "static/css/2.e842310e.chunk.css.map": "/sabbirdiu.github.io/static/css/2.e842310e.chunk.css.map",
-    "static/css/main.d04fa379.chunk.css.map": "/sabbirdiu.github.io/static/css/main.d04fa379.chunk.css.map",
-    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
-    "static/media/Landing.css": "/sabbirdiu.github.io/static/media/pro.d7e51eb3.JPG",
-    "static/media/Projects.css": "/sabbirdiu.github.io/static/media/valy.6a5e8fca.png"
+    "main.css": "/sabbir/static/css/main.88c16fb1.chunk.css",
+    "main.js": "/sabbir/static/js/main.6c308791.chunk.js",
+    "main.js.map": "/sabbir/static/js/main.6c308791.chunk.js.map",
+    "runtime-main.js": "/sabbir/static/js/runtime-main.a3ad141f.js",
+    "runtime-main.js.map": "/sabbir/static/js/runtime-main.a3ad141f.js.map",
+    "static/css/2.e842310e.chunk.css": "/sabbir/static/css/2.e842310e.chunk.css",
+    "static/js/2.37edd7e3.chunk.js": "/sabbir/static/js/2.37edd7e3.chunk.js",
+    "static/js/2.37edd7e3.chunk.js.map": "/sabbir/static/js/2.37edd7e3.chunk.js.map",
+    "index.html": "/sabbir/index.html",
+    "precache-manifest.8d1bb0c084189ad2c537788ccebb6dc5.js": "/sabbir/precache-manifest.8d1bb0c084189ad2c537788ccebb6dc5.js",
+    "service-worker.js": "/sabbir/service-worker.js",
+    "static/css/2.e842310e.chunk.css.map": "/sabbir/static/css/2.e842310e.chunk.css.map",
+    "static/css/main.88c16fb1.chunk.css.map": "/sabbir/static/css/main.88c16fb1.chunk.css.map",
+    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/sabbir/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
+    "static/media/Landing.css": "/sabbir/static/media/pro.d7e51eb3.JPG",
+    "static/media/Projects.css": "/sabbir/static/media/valy.6a5e8fca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.141bbb93.js",
+    "static/js/runtime-main.a3ad141f.js",
     "static/css/2.e842310e.chunk.css",
     "static/js/2.37edd7e3.chunk.js",
-    "static/css/main.d04fa379.chunk.css",
-    "static/js/main.b0c8bf4d.chunk.js"
+    "static/css/main.88c16fb1.chunk.css",
+    "static/js/main.6c308791.chunk.js"
   ]
 }
