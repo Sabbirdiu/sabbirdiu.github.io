@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.7669a19c.chunk.css",
-    "main.js": "/home/static/js/main.97fb6a8e.chunk.js",
-    "main.js.map": "/home/static/js/main.97fb6a8e.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.bf5ca5dd.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.bf5ca5dd.js.map",
-    "static/css/2.e842310e.chunk.css": "/home/static/css/2.e842310e.chunk.css",
-    "static/js/2.37edd7e3.chunk.js": "/home/static/js/2.37edd7e3.chunk.js",
-    "static/js/2.37edd7e3.chunk.js.map": "/home/static/js/2.37edd7e3.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.39a3a6563a300da14339d24185a20463.js": "/home/precache-manifest.39a3a6563a300da14339d24185a20463.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/2.e842310e.chunk.css.map": "/home/static/css/2.e842310e.chunk.css.map",
-    "static/css/main.7669a19c.chunk.css.map": "/home/static/css/main.7669a19c.chunk.css.map",
-    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/home/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
-    "static/media/Landing.css": "/home/static/media/pro.d7e51eb3.JPG",
-    "static/media/Projects.css": "/home/static/media/valy.6a5e8fca.png"
+    "main.css": "/resume/static/css/main.c5f30fd4.chunk.css",
+    "main.js": "/resume/static/js/main.24b2d4a1.chunk.js",
+    "main.js.map": "/resume/static/js/main.24b2d4a1.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.4beab0ad.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.4beab0ad.js.map",
+    "static/css/2.e842310e.chunk.css": "/resume/static/css/2.e842310e.chunk.css",
+    "static/js/2.37edd7e3.chunk.js": "/resume/static/js/2.37edd7e3.chunk.js",
+    "static/js/2.37edd7e3.chunk.js.map": "/resume/static/js/2.37edd7e3.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.f84d73538e36b993dc79e32d7926b405.js": "/resume/precache-manifest.f84d73538e36b993dc79e32d7926b405.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.e842310e.chunk.css.map": "/resume/static/css/2.e842310e.chunk.css.map",
+    "static/css/main.c5f30fd4.chunk.css.map": "/resume/static/css/main.c5f30fd4.chunk.css.map",
+    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/resume/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
+    "static/media/Landing.css": "/resume/static/media/pro.d7e51eb3.JPG",
+    "static/media/Projects.css": "/resume/static/media/valy.6a5e8fca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf5ca5dd.js",
+    "static/js/runtime-main.4beab0ad.js",
     "static/css/2.e842310e.chunk.css",
     "static/js/2.37edd7e3.chunk.js",
-    "static/css/main.7669a19c.chunk.css",
-    "static/js/main.97fb6a8e.chunk.js"
+    "static/css/main.c5f30fd4.chunk.css",
+    "static/js/main.24b2d4a1.chunk.js"
   ]
 }
