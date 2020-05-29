@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.c5f30fd4.chunk.css",
-    "main.js": "/resume/static/js/main.24b2d4a1.chunk.js",
-    "main.js.map": "/resume/static/js/main.24b2d4a1.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.4beab0ad.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.4beab0ad.js.map",
-    "static/css/2.e842310e.chunk.css": "/resume/static/css/2.e842310e.chunk.css",
-    "static/js/2.37edd7e3.chunk.js": "/resume/static/js/2.37edd7e3.chunk.js",
-    "static/js/2.37edd7e3.chunk.js.map": "/resume/static/js/2.37edd7e3.chunk.js.map",
-    "index.html": "/resume/index.html",
-    "precache-manifest.f84d73538e36b993dc79e32d7926b405.js": "/resume/precache-manifest.f84d73538e36b993dc79e32d7926b405.js",
-    "service-worker.js": "/resume/service-worker.js",
-    "static/css/2.e842310e.chunk.css.map": "/resume/static/css/2.e842310e.chunk.css.map",
-    "static/css/main.c5f30fd4.chunk.css.map": "/resume/static/css/main.c5f30fd4.chunk.css.map",
-    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/resume/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
-    "static/media/Landing.css": "/resume/static/media/pro.d7e51eb3.JPG",
-    "static/media/Projects.css": "/resume/static/media/valy.6a5e8fca.png"
+    "main.css": "/sabbirdiu.github.io/static/css/main.d04fa379.chunk.css",
+    "main.js": "/sabbirdiu.github.io/static/js/main.b0c8bf4d.chunk.js",
+    "main.js.map": "/sabbirdiu.github.io/static/js/main.b0c8bf4d.chunk.js.map",
+    "runtime-main.js": "/sabbirdiu.github.io/static/js/runtime-main.141bbb93.js",
+    "runtime-main.js.map": "/sabbirdiu.github.io/static/js/runtime-main.141bbb93.js.map",
+    "static/css/2.e842310e.chunk.css": "/sabbirdiu.github.io/static/css/2.e842310e.chunk.css",
+    "static/js/2.37edd7e3.chunk.js": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js",
+    "static/js/2.37edd7e3.chunk.js.map": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js.map",
+    "index.html": "/sabbirdiu.github.io/index.html",
+    "precache-manifest.985d903e0f0a8f68b094b372556d2cab.js": "/sabbirdiu.github.io/precache-manifest.985d903e0f0a8f68b094b372556d2cab.js",
+    "service-worker.js": "/sabbirdiu.github.io/service-worker.js",
+    "static/css/2.e842310e.chunk.css.map": "/sabbirdiu.github.io/static/css/2.e842310e.chunk.css.map",
+    "static/css/main.d04fa379.chunk.css.map": "/sabbirdiu.github.io/static/css/main.d04fa379.chunk.css.map",
+    "static/js/2.37edd7e3.chunk.js.LICENSE.txt": "/sabbirdiu.github.io/static/js/2.37edd7e3.chunk.js.LICENSE.txt",
+    "static/media/Landing.css": "/sabbirdiu.github.io/static/media/pro.d7e51eb3.JPG",
+    "static/media/Projects.css": "/sabbirdiu.github.io/static/media/valy.6a5e8fca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4beab0ad.js",
+    "static/js/runtime-main.141bbb93.js",
     "static/css/2.e842310e.chunk.css",
     "static/js/2.37edd7e3.chunk.js",
-    "static/css/main.c5f30fd4.chunk.css",
-    "static/js/main.24b2d4a1.chunk.js"
+    "static/css/main.d04fa379.chunk.css",
+    "static/js/main.b0c8bf4d.chunk.js"
   ]
 }
